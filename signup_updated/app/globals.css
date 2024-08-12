@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .signup-container{
+    display:flex;
+    justify-content: right;
+    margin-left:18.5rem;
+    margin-top: 1rem;
+}
+.form-box{
+    border:1px solid white;
+    justify-content: flex-end !important;  
+    height: 35rem;
+    margin-bottom: 5rem;
+} */
